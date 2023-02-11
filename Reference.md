@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to o nama
+## Welcome to reference
 
 _yay_
 
