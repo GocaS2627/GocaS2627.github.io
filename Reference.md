@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to reference
+## Welcome to Reference
 
 _yay_
 
